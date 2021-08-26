@@ -1,0 +1,14 @@
+h1{color: rgb(16, 16, 212);
+background-color: black;
+}
+p{
+    color: blueviolet;
+    background-color: chartreuse;
+}
+
+@media screen and (max-width:300){
+    p{
+(230, 
+    }
+    
+}
